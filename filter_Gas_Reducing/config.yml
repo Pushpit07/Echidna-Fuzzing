@@ -1,0 +1,5 @@
+seqLen: 2
+estimateGas: true
+# testLimit: 10000
+filterBlacklist: true
+filterFunctions: ["C.pop()", "C.clear()"]
