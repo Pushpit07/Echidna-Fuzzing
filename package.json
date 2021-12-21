@@ -1,0 +1,23 @@
+{
+  "name": "echidna-fuzzing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpit07/Echidna-Fuzzing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pushpit07/Echidna-Fuzzing/issues"
+  },
+  "homepage": "https://github.com/Pushpit07/Echidna-Fuzzing#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.4.0"
+  }
+}
